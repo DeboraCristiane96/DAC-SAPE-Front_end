@@ -8,6 +8,6 @@ Equipe Alpha: Ayanne Prata, Danilo Costa, Débora Cristiane, keilla Vitória e T
 
 This project was bootstrapped with Create React App.
 
-#Como usar:
+# Como usar:
 
 Com o yarn instalado, basta iniciar o front via console: yarn start
